@@ -8,17 +8,17 @@ We have developed this project using OpenCV and Keras modules of python.
 Prerequisites
 The prerequisites software & libraries for the sign language project are:
 
-Python (3.7.4)
+- Python (3.7.4)
 
-IDE (Jupyter)
+- IDE (Jupyter)
 
-Numpy (version 1.16.5)
+- Numpy (version 1.16.5)
 
-cv2 (openCV) (version 3.4.2)
+- cv2 (openCV) (version 3.4.2)
 
-Keras (version 2.3.1)
+- Keras (version 2.3.1)
 
-Tensorflow (as keras uses tensorflow in backend and for image preprocessing) (version 2.0.0)
+- Tensorflow (as keras uses tensorflow in backend and for image preprocessing) (version 2.0.0)
 
 
 A basic GUI was designed Using Python Tkinter  which looks like 
